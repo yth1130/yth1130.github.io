@@ -17,12 +17,13 @@
 //********************************************************
 
 // Several accent colors, choose one or create your own!
-$accent-color: #3CA2A2;    // original =)
+//$accent-color: #3CA2A2;    // original =)
 //$accent-color: #C38FD6;  // velvet
 //$accent-color: #8FD6B3;  // greenish
 //$accent-color: #35B4DE;  // bluish
 //$accent-color: #D2E354;  // yellowish
 //$accent-color: #52B54B;  // green
+$accent-color: #d65dd0; // violet
 
 $font-color: #dddddd;
 $background-color: #292929;
@@ -267,7 +268,7 @@ nav {
     color: white !important;
   }
   .navbar-brand {
-    font-size: 30px;
+    font-size: 25px;
     color: #777;
   }
   .navbar-nav {
