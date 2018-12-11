@@ -1,3 +1,14 @@
+---
+layout: post
+title: "First post"
+date: 2018-12-02
+description: 블로그 첫 글!
+share: false
+comments: false
+tags: 
+ - github
+---
+
 깃허브 블로그 첫 글이다.
 
 md형식으로 글을 쓰는것 같은데 첨보는 형식이다

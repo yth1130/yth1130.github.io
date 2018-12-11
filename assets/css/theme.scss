@@ -23,7 +23,7 @@
 //$accent-color: #35B4DE;  // bluish
 //$accent-color: #D2E354;  // yellowish
 //$accent-color: #52B54B;  // green
-$accent-color: #d65dd0; // violet
+$accent-color: #ba5dd6; // violet
 
 $font-color: #dddddd;
 $background-color: #292929;
@@ -257,7 +257,8 @@ nav {
   font-size: 18px;
   font-family: "Ubuntu", sans-serif;
   padding: 0 10px !important;
-  border-top: 3px #3CA2A2 solid;
+  //border-top: 3px #3CA2A2 solid;
+  border-top: 3px #ba5dd6 solid;
   border-bottom: 1px #000000 solid;
   .navbar-brand, .nav-link {
    color: #777;

@@ -1,3 +1,14 @@
+---
+layout: post
+title: "VsCode로 블로그 관리하기"
+date: 2018-12-11 16:00:00
+description: 블로그 관리 환경을 구성해보자
+share: false
+comments: false
+tags: 
+ - github
+---
+
 Github에서 새파일을 만들면서 포스트를 할 수 없어(불가능하진 않겠지만 가오가 떨어짐..) VsCode로 블로그 관리를 하려고 한다.
 Jekyll블로그 관리를 검색하니까 루비를 설치하고 개발자 킷을설치하고 어쩌구 저쩌구 귀찮은 것이 많아서 그냥 VsCode로 원격 저장소 연동하고 포스트만 푸시하는 방식으로 관리하려고 한다.
 
